@@ -62,7 +62,7 @@
 </p>
 -->
 
-# ☄️ Social Medias
+# 🪐 Social Medias
 <p align="center">
   Check my profile on <a href="https://scholar.google.com/citations?user=UuUyGrYAAAAJ&">Google Scholar</a> to check my most recent published papers, and my <a href="https://www.linkedin.com/in/guilherme-ataliba/">LinkedIn</a> profile for new posts and conversations. You can also find some articles on <a href="https://medium.com/@lreis.luiz">Medium</a>.
   </p>
@@ -73,3 +73,4 @@
   <a href = "https://medium.com/@lreis.luiz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
+# ☄️ Check out my projects below! 
