@@ -18,7 +18,7 @@
 <img align="right" height="200em" width="200em" src="https://github.com/user-attachments/assets/4245e601-2bb7-450e-bde3-989ae82984b2">
 -->
 
-<h1>⚙️ Tech Work </h1>
+<h1>🌌 Tech Stack </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/guilherme-ataliba/">
   <img height="180em" src="https://github-stats-guilhermes-projects-54f24397.vercel.app/api?username=Guilherme-Ataliba&show_icons=true&include_all_commits=true&theme=dracula"/>
