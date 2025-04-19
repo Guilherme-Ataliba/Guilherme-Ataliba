@@ -64,12 +64,12 @@
 
 # ☄️ Social Medias
 <p align="center">
-  Check my profile on <a href="https://scholar.google.com/citations?user=UuUyGrYAAAAJ&">Google Scholar</a> to check my most recent published papers, and my <a href="https://www.linkedin.com/in/guilherme-ataliba/">LinkedIn</a> profile for new posts and conversations. You can also find some articles on <a href="">Medium</a>.
+  Check my profile on <a href="https://scholar.google.com/citations?user=UuUyGrYAAAAJ&">Google Scholar</a> to check my most recent published papers, and my <a href="https://www.linkedin.com/in/guilherme-ataliba/">LinkedIn</a> profile for new posts and conversations. You can also find some articles on <a href="https://medium.com/@lreis.luiz">Medium</a>.
   </p>
 <p align="center">  
   <a href = "https://scholar.google.com/citations?user=UuUyGrYAAAAJ&"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"></a>
   <a href = "https://www.linkedin.com/in/guilherme-ataliba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lreis.luiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href = "https://medium.com/@lreis.luiz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
